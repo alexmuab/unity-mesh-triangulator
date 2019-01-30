@@ -4,6 +4,11 @@ Explode into triangles any mesh you want!
 
 ![](MeshTriangulator.gif)
 
+## Description
+
+The MeshTringulator script splits the mesh of a given transform into triangles, deactivating its gameobject and creating multiple triangles simulating an explosion
+
+## Getting Started
 ### Prerequisites
 
 The given project was made with Unity 2018.2.3f1
