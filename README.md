@@ -1,6 +1,7 @@
 # Unity Mesh Triangulator
 
 Explode into triangles any mesh you want!
+![](MeshTriangulator.gif)
 
 ### Prerequisites
 
