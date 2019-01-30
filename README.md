@@ -14,8 +14,8 @@ You can open the Assets folder in a new Unity project or just get the .unitypack
 
 ## Running the tests
 
-The example project has different objects which call the static MeshTriangulator script. 
-If you want to test it with any other objects with meshes just try to call the Triangulate() function and give it the object transform 
+The example project has different objects which use the static MeshTriangulator class. 
+If you want to test it with any other objects just try to call the Triangulate() function and give it the object transform 
 
 ```
 MeshTriangulator.Triangulate(transform)
